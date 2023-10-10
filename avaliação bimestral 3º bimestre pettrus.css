@@ -1,0 +1,32 @@
+#box1{
+    height:50px;
+    width:1498px;
+    margin-left:0px;
+    margin-top: -21px;
+    background:rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+}
+
+#box2{
+    height:742px;
+    width:299px;
+    margin-left:0px;
+    margin-top: -8px;
+    background:rgb(202, 126, 126);
+}
+#box3{
+    height:650px;
+    width:1198px;
+    margin-left:299px;
+    margin-top: -764px;
+    background:white
+    text-align: center;
+}
+#box4{
+    height:92px;
+    width:1198px;
+    margin-left:299px;
+    background:rgb(155, 155, 116)
+}
